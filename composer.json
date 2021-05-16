@@ -1,0 +1,17 @@
+{
+  "name": "yireo/shopware6-add-twig-template-name",
+  "description": "Shopware 6 plugin to add the template name to all Twig templates",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Yireo\\AddTwigTemplateName\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "Yireo\\AddTwigTemplateName\\YireoAddTwigTemplateName",
+    "label": {
+      "en-GB": "Shopware 6 plugin to add the template name to all Twig templates"
+    }
+  }
+}
