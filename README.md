@@ -1,4 +1,7 @@
 # Shopware 6 template hints
+
+**DEPRECATED: Use https://github.com/FriendsOfShopware/FroshDevelopmentHelper instead**
+
 This plugin adds - once enabled - comments in the HTML document with the names of Twig templates. For example:
 ```html
 <!-- @Storefront/storefront/base.html.twig --><!DOCTYPE html>
